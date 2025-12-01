@@ -4,7 +4,7 @@ This file tracks my daily learning and progress in C programming.
 
 ---
 
-## 📅 2025-12-01 — Day 1
+
 **Topic:** Hello World  
 **What I learned:**
 - Basic structure of a C program
