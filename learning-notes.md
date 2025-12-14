@@ -1,6 +1,6 @@
 # C Learning Notes
 
-This file tracks my daily learning and progress in C programming.
+This file tracks my learning and progress in C programming.
 
 ---
 
@@ -14,4 +14,3 @@ This file tracks my daily learning and progress in C programming.
 **Files created:**
 - `01-hello-world/hello_world.c`
 
-**Confidence:** ⭐☆☆☆☆ (starting out strong!)
